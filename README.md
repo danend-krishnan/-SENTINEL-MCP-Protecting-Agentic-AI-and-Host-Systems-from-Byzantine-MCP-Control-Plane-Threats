@@ -4,11 +4,11 @@
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This research prototype demonstrates a production-ready security enforcement layer that protects AI agents and host operating systems from malicious but protocol-compliant MCP (Model Context Protocol) servers operating as Byzantine adversaries.
 
-### Current Status: ✅ COMPLETE & OPERATIONAL
+### Current Status:  COMPLETE & OPERATIONAL
 
 **Execution Results:**
 - ✓ Protocol defined and implemented
@@ -23,7 +23,7 @@ This research prototype demonstrates a production-ready security enforcement lay
 
 ---
 
-## 📊 Key Metrics
+##  Key Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -38,7 +38,7 @@ This research prototype demonstrates a production-ready security enforcement lay
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 project/
@@ -72,7 +72,7 @@ project/
 
 ---
 
-## 🎨 New Features: Interactive Dashboard
+##  New Features: Interactive Dashboard
 
 ### Graphical Enhancements
 
@@ -98,7 +98,7 @@ project/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -180,7 +180,7 @@ The dashboard will show:
    - Detection: Context filtering
    - Status: ✓ BLOCKED
 
-### Monitored/Logged (⚠️ Information Gathered)
+### Monitored/Logged ( Information Gathered)
 
 8. **OS Information Gathering**
    - Attack: System info disclosure
@@ -189,7 +189,7 @@ The dashboard will show:
 
 ---
 
-## 🔐 Security Architecture
+##  Security Architecture
 
 ### Three-Layer Defense Model
 
@@ -224,7 +224,7 @@ The dashboard will show:
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 ### Main Documents
 
@@ -267,7 +267,7 @@ reports/attack_visualizations.json
 
 ---
 
-## 🔬 Technical Specifications
+##  Technical Specifications
 
 ### Core Components
 
@@ -322,7 +322,7 @@ reports/attack_visualizations.json
 
 ---
 
-## 💡 Key Innovations
+##  Key Innovations
 
 ### 1. Zero-Trust MCP Processing
 - All inputs treated as untrusted
@@ -349,7 +349,7 @@ reports/attack_visualizations.json
 - Forensic support
 - Attack reconstruction
 
-### 6. Interactive Visualization ⭐ NEW
+### 6. Interactive Visualization 
 - Real-time graphical flow display
 - Auto-updating metrics graph
 - Live dashboard interface
@@ -414,7 +414,7 @@ Dashboard Features:
 
 ---
 
-## 🔧 Usage Examples
+##  Usage Examples
 
 ### Example 1: Dashboard Access
 
@@ -477,7 +477,7 @@ orchestrator.export_visualizations()
 
 ---
 
-## 🎯 Key Findings
+##  Key Findings
 
 ### ✓ Proven Vulnerabilities
 
@@ -513,7 +513,7 @@ orchestrator.export_visualizations()
 
 ---
 
-## 🚨 Recommendations
+##  Recommendations
 
 ### Immediate (High Priority)
 
@@ -541,7 +541,7 @@ orchestrator.export_visualizations()
 
 ---
 
-## 📖 Additional Resources
+##  Additional Resources
 
 ### Internal Documentation
 - `RESEARCH_REPORT.md` - Comprehensive technical report
@@ -561,7 +561,7 @@ orchestrator.export_visualizations()
 
 ---
 
-## 🏆 Research Achievements
+##  Research Achievements
 
 ### What Was Accomplished
 
@@ -576,7 +576,7 @@ orchestrator.export_visualizations()
 - Comprehensive policy engine
 - 87.5% blocking rate
 
-✅ **Interactive Visualization Suite** ⭐ NEW
+✅ **Interactive Visualization Suite** 
 - Real-time flow diagram
 - Auto-updating metrics graph
 - Live dashboard interface
@@ -602,7 +602,7 @@ orchestrator.export_visualizations()
 
 ---
 
-## 📞 Support
+##  Support
 
 ### For Questions About:
 
@@ -634,7 +634,7 @@ The logs directory contains detailed execution traces:
 
 ---
 
-## 📜 License & Attribution
+##  License & Attribution
 
 This research prototype was developed as a comprehensive cybersecurity study on securing AI agents against Byzantine MCP server attacks.
 
@@ -648,7 +648,7 @@ This research prototype was developed as a comprehensive cybersecurity study on 
 
 ---
 
-## 🔍 Next Steps
+##  Next Steps
 
 1. **Review Dashboard** → Open http://localhost:8000
 2. **Run Scenarios** → Click "Run Scenario" to test
@@ -660,7 +660,7 @@ This research prototype was developed as a comprehensive cybersecurity study on 
 
 ---
 
-## ✨ Quick Reference
+##  Quick Reference
 
 ### Start Services
 ```bash
@@ -700,12 +700,8 @@ cat app.py
 
 ---
 
-**Status**: ✅ Complete & Operational  
+**Status**:  Complete & Operational  
 **Last Updated**: May 7, 2026  
-**Version**: 2.0.0 (With Interactive Dashboard)  
-**Production Ready**: Yes (with recommendations)  
-**Dashboard**: ✅ Live & Interactive  
+**Version**: 2.0.0 (With Interactive Dashboard)    
+**Dashboard**:  Live & Interactive  
 
----
-
-*Enterprise-grade security research prototype with interactive visualization for protecting Agentic AI systems against Byzantine MCP control-plane attacks.*
