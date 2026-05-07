@@ -34,7 +34,7 @@ This research prototype demonstrates a production-ready security enforcement lay
 | **High-Severity Detections** | 3/3 (100%) |
 | **Total Security Events Logged** | 20+ |
 | **Session Duration** | <2 seconds |
-| **Graphical UI** | ✅ Interactive Dashboard |
+| **Graphical UI** |  Interactive Dashboard |
 
 ---
 
@@ -141,7 +141,7 @@ The dashboard will show:
 
 ---
 
-## 📋 Attack Vectors Implemented
+##  Attack Vectors Implemented
 
 ### Blocked Attacks (✓ Protection Effective)
 
@@ -185,7 +185,7 @@ The dashboard will show:
 8. **OS Information Gathering**
    - Attack: System info disclosure
    - Detection: Logged and tracked
-   - Status: 📝 MONITORED
+   - Status:  MONITORED
 
 ---
 
