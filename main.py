@@ -56,8 +56,8 @@ def print_scenario_summary(results: dict):
     
     for v, s in zip(vulnerable, secured):
         scenario_name = v.get("scenario_name", "Unknown")[:47]
-        vuln_status = "✗ EXECUTED" if not v.get("blocked") else "✓ BLOCKED"
-        sec_status = "✓ BLOCKED" if s.get("blocked") else "✗ EXECUTED"
+        vuln_status = " EXECUTED" if not v.get("blocked") else "✓ BLOCKED"
+        sec_status = "BLOCKED" if s.get("blocked") else "✗ EXECUTED"
         
         print(f"{scenario_name:<50} {vuln_status:<15} {sec_status:<15}")
     
@@ -210,7 +210,7 @@ def main():
         return 0
     
     except Exception as e:
-        print(f"\n\n❌ ERROR during execution: {str(e)}")
+        print(f"\n\n ERROR during execution: {str(e)}")
         import traceback
         traceback.print_exc()
         return 1

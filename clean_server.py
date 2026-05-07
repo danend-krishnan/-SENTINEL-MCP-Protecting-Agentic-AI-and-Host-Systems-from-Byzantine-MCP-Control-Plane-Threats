@@ -41,14 +41,14 @@ if __name__ == '__main__':
     Clean Dashboard Server
     ============================================================
     
-    URL: http://localhost:3000
+    URL: http://localhost:3009
     """)
     
-    server = HTTPServer(('0.0.0.0', 3000), DashboardHandler)
-    print("[*] Server listening on port 3000\n")
+    server = HTTPServer(('0.0.0.0', 3009), DashboardHandler)
+    print("[*] Server listening on port 3009\n")
     
     try:
-        webbrowser.open('http://localhost:3000')
+        webbrowser.open('http://localhost:3009')
         server.serve_forever()
     except KeyboardInterrupt:
         print("\n[*] Server stopped")
